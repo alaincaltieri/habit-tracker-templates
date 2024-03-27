@@ -1,7 +1,7 @@
 title: Habit Tracker Templates
 email: help.chapps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  All the templates you need to track your habits. Anywhere.
+  All the templates you need to track your habits, anywhere.
 
 # Enable for final deployment
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,6 +16,7 @@ github_username:  alaincaltieri
 theme_config:
   appearance: "light"
   show_description: true
+  back_home_text: "back"
 
 # Build settings
 theme: no-style-please  # Use this locally
