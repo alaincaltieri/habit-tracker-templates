@@ -65,6 +65,8 @@ In summary, a habit tracker is a practical tool that provides clarity, accountab
 
 ## [How to Make a Habit Tracker](#how-to-make-a-habit-tracker)
 
+![]({{ '/assets/media/how-to-create-habit-tracker-calendar.jpeg' | absolute_url }})
+
 Creating a habit tracker is easier than you might think. Here are a few methods you can try:
 
 **1. Notion Habit tracker**
@@ -98,6 +100,8 @@ For those who crave simplicity, printable PDF templates offer a minimalist appro
 Alongside full apps, Notion, Sheets, Excel and Bullet Journal templates we created also a nice collection of [templates for printable habit tracker in PDF](TODO). Or, if you're more into calendars, here's a specific variation with [the 2024 (and 2025!) habit tracker calendars](TODO).
 
 ## [What Habits to Track?](#what-habits-to-track)
+
+![]({{ '/assets/media/what-habits-track.jpeg' | absolute_url }})
 
 Now that you have the tools and motivation to work on your habits, you may wonder: what habits can I track? When it comes to deciding which habits to track, the possibilities are endless. Here are some ideas to get you started:
 
