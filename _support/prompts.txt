@@ -31,6 +31,12 @@ KEYWORDS:
 - how to make a habit tracker
 - What habits to track
 
+---
+
+Create the introduction to a blog post How to track your habits on Notion.
+Use a concise and clear language without jargon or complex sentences, copy Hemingway for the lexical style but do not use too many metaphors. Use humour and be human as appropriate.
+The text should be about 100 words long and optimized for the SEO query "notion habit tracker"
+
 
 ------------------------------------------------------------------------
 --- IMAGES
@@ -57,3 +63,24 @@ The image should display lush garden with tiny seedlings sprouting from the soil
 
 
 Crea una immagine. L'immagine mostra del terreno su cui stanno germogliando delle piantine. Si vede un raggio di sole colpire una parte del campo. Le piantine sono di grandezza diversa e sullo sfondo s'intravedono piante adulte. Usa lo stile graphic novel, con solo toni bianco e nero ma colora le piante di un verde acceso per metterle in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog.
+
+
+Crea una immagine. L'immagine mostra un calendario mensile in cui delle checkmark sono disegnate su gran parte dei giorni. Vicino al calendario ci sono delle scarpe da jogging ed una spilla con una smile felice. Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
+L'immagine mostra un calendario mensile in cui delle checkmark sono disegnate su gran parte dei giorni. Vicino al calendario ci sono delle scarpe da jogging ed una spilla con una smile felice. Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
+Crea una immagine. 
+L'immagine mostra un sentiero poco battuto sulla sinistra ed uno molto frequentato sulla destra. Il sentiero è lo stesso, solo ritratto in due momenti differenti.
+Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
+
+Crea una immagine. 
+L'immagine mostra i seguenti stickers, sparsi su un tavolino:
+- Una mela rossa
+- Un segnale di divieto di fumo
+- Un paio di scarpe da corsa
+- Una ragazza in posa da yoga
+- Un libro
+- Uno smile arrabbiato
+Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+
