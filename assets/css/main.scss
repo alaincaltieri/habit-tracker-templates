@@ -83,6 +83,11 @@ ul {
 
 p {
 	line-height: 1.2;	
+	font-size: 0.9em;
+}
+
+ul {
+	font-size: 0.9em;
 }
 
 .download {
@@ -122,4 +127,21 @@ ul.nav-links li {
   content: "";
   display: table;
   clear: both;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+*:target {
+    background: yellow;
+}
+
+div.page-image img {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
 }

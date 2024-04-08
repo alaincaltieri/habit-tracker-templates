@@ -1,0 +1,59 @@
+------------------------------------------------------------------------
+---  POSTS
+------------------------------------------------------------------------
+
+Create a longform post optimized for SEO on the following search queries:
+- what is a habit tracker
+- how to use a habit tracker
+- how to make a habit tracker
+- What habits to track
+
+The post should have the following structure and content:
+
+- What is a habit tracker: Explain what it is and how it can be useful. Expand with scientific evidence about how habits work and how habit trackers help building or quitting habits.
+- how to use a habit tracker: Explain the principles behind a habit tracker, how it should be used, with what mentality and goals. Show how a concrete user would set up her habits and use a tracker to stay motivated and organized.
+- how to make a habit tracker: Explain the core ingredients every habit tracker should have.
+	- Create a Habit Tracker in Notion: Explain why this may be a good idea and who it is suitable for. Refer to an extensive article of us for a deep dive and many templates.
+	- Create a Habit Tracker in Sheets or Excel: Explain why this may be a good idea and who it is suitable for. Refer to an extensive article of us for a deep dive and many templates.
+	- Have a Habit Tracker in your Bullet Journal: Explain why this may be a good idea and who it is suitable for. Refer to an extensive article of us for a deep dive and many templates.
+	- Habit Tracker PDF templates: Explain why this may be a good idea and who it is suitable for. Refer to an extensive article of us for a deep dive and many templates.
+	- Habit Tracker Apps: Explain why this may be a good idea and who it is suitable for. We made an Habit tracker app for iOS, iPadOS and watchOS that is just beautiful.
+- What habits to track: Now that we know why tracking habits is a good idea, list the 10 most common habits people should consider tracking.
+
+Expand each section appropriately, between 200 and 400 words of lenght. Add actionable and useful content when appropriate. Use a concise and clear language without jargon or complex sentences, copy Hemingway for the lexical style but do not use too many metaphors. Use humour and be human as appropriate.
+
+
+
+KEYWORDS:
+
+- what is a habit tracker
+- how to use a habit tracker
+- how to make a habit tracker
+- What habits to track
+
+
+------------------------------------------------------------------------
+--- IMAGES
+------------------------------------------------------------------------
+
+
+I'm trying to create a header image for a blog post titled "What the heck is a habit tracker and how should you use it?". Can you give me some creative ideas and generate a few images for me? 
+
+The style should be illustration. Preferably black and white, with just one or two colors (RED and YELLOW).
+
+
+---
+
+Create an image: "sticker of a young plant with green leaves sprouting from the terrain on a transparent background"
+Size: 1400 x 1080 pixels.
+
+-
+
+Create an image.
+The image should display a stressed woman smoking a cigarette while scrolling on a smartphone. She is sitting on the sidewalk of an empty street, with condos behind her. The style must be pencil illustration, with predominant colors being black and accent colors in red and blue. The purpose of the image is to serve as a high quality and evocative blog header.
+
+Create an image.
+The image should display lush garden with tiny seedlings sprouting from the soil. The style must be black and white pencil drawing, but use green for the plants. The purpose of the image is to serve as a high quality and evocative blog header.
+
+
+Crea una immagine. L'immagine mostra del terreno su cui stanno germogliando delle piantine. Si vede un raggio di sole colpire una parte del campo. Le piantine sono di grandezza diversa e sullo sfondo s'intravedono piante adulte. Usa lo stile graphic novel, con solo toni bianco e nero ma colora le piante di un verde acceso per metterle in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog.
