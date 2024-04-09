@@ -18,7 +18,7 @@ By visually tracking your progress, you can identify patterns, celebrate your su
 ## Table of contents
 - [Table of contents](#table-of-contents)
 - [How Do Habits Work?](#how-do-habits-work)
-- [How to Use a Habit Tracker improve your habits](#how-to-use-a-habit-tracker-improve-your-habits)
+- [How to Use a Habit Tracker to Improve Your Habits](#how-to-use-a-habit-tracker-to-improve-your-habits)
 - [How to Make a Habit Tracker](#how-to-make-a-habit-tracker)
 - [What Habits to Track?](#what-habits-to-track)
 - [In Conclusion](#in-conclusion)
@@ -35,7 +35,7 @@ Habits are like the machinery of our daily lives, operating beneath the surface 
 
 4. **Repetition and Reinforcement**: As the habit loop repeats over time, the neural pathways associated with the habit become increasingly ingrained and efficient. With each repetition, the habit becomes more automatic, requiring less cognitive effort to execute. This cycle of cue, routine, and reward forms the foundation of habit formation, shaping our behaviors and influencing our daily lives.
 
-## [How to Use a Habit Tracker improve your habits](#how-to-use-a-habit-tracker-improve-your-habits)
+## [How to Use a Habit Tracker to Improve Your Habits](#how-to-use-a-habit-tracker-improve-your-habits)
 
 Using a habit tracker effectively is all about consistency and honesty. Here's a simple step-by-step guide:
 
