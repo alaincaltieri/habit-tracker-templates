@@ -60,12 +60,14 @@ img.features {
 	margin-right: auto;
 }
 
-b {
+a {
 	color: var(--primary-color);
+	font-weight: 600;
 }
 
-a {
-	color: var(--main-text-color);	
+ul.menu a {
+	color: var(--main-text-color);
+	font-weight: 300;
 }
 
 h1 {
@@ -84,11 +86,11 @@ h4 {
 }
 
 ul {
-	line-height: 1.2;
+	line-height: 1.5;
 }
 
 p {
-	line-height: 1.2;	
+	line-height: 1.4;	
 	font-size: 0.9em;
 	clear: both;
 }
