@@ -16,7 +16,6 @@ Put simply, a habit tracker is a tool used to monitor and record your habits ove
 By visually tracking your progress, you can identify patterns, celebrate your successes, and pinpoint areas for improvement. Whether you want to start exercising regularly, drink more water, or read before bed, a habit tracker can be your loyal companion on the journey to forming new habits.
 
 ## Table of contents
-- [Table of contents](#table-of-contents)
 - [How Do Habits Work?](#how-do-habits-work)
 - [How to Use a Habit Tracker to Improve Your Habits](#how-to-use-a-habit-tracker-to-improve-your-habits)
 - [How to Make a Habit Tracker](#how-to-make-a-habit-tracker)
@@ -69,19 +68,19 @@ In summary, a habit tracker is a practical tool that provides clarity, accountab
 
 Creating a habit tracker is easier than you might think. Here are a few methods you can try:
 
-**1. Notion Habit tracker**
+**1. [Notion Habit tracker]({{ 'notion-habit-tracker' | relative_url }})**
 
 Notion is a versatile productivity tool that allows you to create custom databases, including habit trackers. With its intuitive interface and robust features, Notion provides a digital playground for organizing your habits and goals. From customizable templates to seamless integration with other productivity tools, Notion empowers you to design a habit tracker tailored to your unique needs. 
 
 We created a full article about [creating your habit tracker on Notion, including templates](TODO). Check it out!
 
-**2. Habit tracker with Sheets or Excel**
+**2. [Habit tracker with Sheets or Excel]({{ 'habit-tracker-excel-sheets' | relative_url }})**
 
 For the analytically inclined, spreadsheets like Google Sheets or Microsoft Excel offer a data-driven approach to habit tracking. With their array of functions and charting capabilities, spreadsheets allow you to track your habits with precision and detail. Whether you're logging your daily activities or analyzing trends over time, spreadsheets provide a powerful platform for tracking and visualizing your progress. Their customizability is unmatched. 
 
 We wrote an article on the tips and tricks for creating your [habit tracker with google sheets or Excel, with templates ready to use](TODO). 
 
-**3. Bullet Journal Habit Trackers**
+**3. [Bullet Journal Habit Trackers]({{ 'habit-tracker-bullet-journal' | relative_url }})**
 
 If you prefer a tactile experience, a bullet journal might be your weapon of choice. With its customizable layouts and creative freedom, a bullet journal invites you to craft a habit tracker that's as unique as you are. From minimalist designs to elaborate spreads, a bullet journal allows you to blend productivity with creativity, making habit tracking a joyous journey of self-expression.
 
@@ -93,7 +92,7 @@ In the age of smartphones, habit tracker apps offer unparalleled convenience and
 
 Now you may think: no way these guys made also an habit tracker app for me to use for free, with a nice design, many integrations and just a joy to use. And you would be wrong. We did create [Habituator, arguably the best habit tracker on the whole App Store](https://apple.co/3PqueKO). It's made with love and free to use with just a few limitations. It offers many many features, check 'em out at [Habituator.app](https://habituator.app).
 
-**5. Habit Tracker PDF Templates: Simplicity Made Beautiful**
+**5. [Habit Tracker PDF Templates: Simplicity Made Beautiful]({{ 'habit-tracker-printable-templates' | relative_url }})**
 
 For those who crave simplicity, printable PDF templates offer a minimalist approach to habit tracking. With elegant designs and intuitive layouts, these templates transform the mundane task of habit tracking into a delightful ritual. Whether you prefer a weekly overview or a monthly calendar, PDF templates provide a fuss-free solution for staying on track.
 

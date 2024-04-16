@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Create your Bullet Journal Habit Tracker"
+slug: habit-tracker-bullet-journal
 ---
 
 KEYWORDS

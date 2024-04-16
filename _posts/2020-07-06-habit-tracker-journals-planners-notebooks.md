@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Habit Tracker Journal, Planner or Notebook"
+slug: habit-tracker-journals
 ---
 
 KEYWORDS

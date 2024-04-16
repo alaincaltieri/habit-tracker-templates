@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The 2024 Habit Tracker Calendar"
+slug: habit-tracker-calendar
 ---
 
 KEYWORDS

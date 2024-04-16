@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The best Habit Tracker Printable Templates"
+slug: habit-tracker-printable-templates
 
 image:
   path: /assets/media/printable-habit-trackers-header.jpeg
@@ -10,7 +11,7 @@ image:
 
 In a world where sticky notes multiply like rabbits and to-do lists sprout extra limbs, we all crave a little organization. Enter the unsung hero of productivity: habit trackers. These unassuming sheets of paper might not wear capes, but they wield the power to transform your life — one checkbox at a time.
 
-Why Use a Habit Tracker?
+[Why Use a Habit Tracker?]({{ 'what-is-a-habit-tracker' | relative_url }})
 
 Picture this: You wake up, bleary-eyed, and stumble toward the coffee machine. Your brain, still in dreamland, wonders, "Did I floss last night?" Or was it the night before? And when was the last time you did a sun salutation?
 
@@ -22,7 +23,28 @@ So, my fellow goal-chasers, grab your favorite pen (or quill, if you're feeling 
 
 Ready to conquer the chaos?
 
-# What is a Habit Tracker Printable Template?
+## Table of contents
+- [What is a Habit Tracker Printable Template?](#what-is-a-habit-tracker-printable-template)
+- [Alternatives to Printable Habit Trackers](#alternatives-to-printable-habit-trackers)
+- [All Possible Habit Tracker Printable Templates](#all-possible-habit-tracker-printable-templates)
+  - [Monthly Habit Tracker Printable Template](#monthly-habit-tracker-printable-template)
+  - [Weekly Habit Tracker Printable Template](#weekly-habit-tracker-printable-template)
+  - [Daily Habit Tracker Printable Template](#daily-habit-tracker-printable-template)
+  - [Yearly Habit Tracker Printable Template](#yearly-habit-tracker-printable-template)
+  - [21, 30, 75, 90 or 100 Days Habit Tracker Printable Templates](#21-30-75-90-or-100-days-habit-tracker-printable-templates)
+    - [21 Days](#21-days)
+    - [30 Days](#30-days)
+    - [75 Days](#75-days)
+    - [90 Days](#90-days)
+    - [100 Days](#100-days)
+  - [Circle Habit Tracker Printable Template](#circle-habit-tracker-printable-template)
+  - [Habit Tracker Calendar](#habit-tracker-calendar)
+  - [Habit Tracker Coloring Page](#habit-tracker-coloring-page)
+  - [Habit Tracker Planner](#habit-tracker-planner)
+- [Habit tracker Sticker Printable Templates](#habit-tracker-sticker-printable-templates)
+- [Conclusion](#conclusion)
+
+## What is a Habit Tracker Printable Template?
 
 ![]({{ '/assets/media/printable-habit-tracker-templates-examples.jpg' | absolute_url }})
 
@@ -40,15 +62,15 @@ And finally, there's the issue of data analysis. With pen and paper, there's no 
 
 So, there you have it. Printable templates can be a simple, effective tool for habit tracking with a touch of old-school charm. It's not perfect, but then again, what is? After all, it's the quirks and imperfections that make life interesting, right?
 
-# Alternatives to Printable Habit Trackers
+## Alternatives to Printable Habit Trackers
 
 ![]({{ '/assets/media/alternatives-to-printable-habit-trackers.jpg' | absolute_url }})
 
 While printable habit trackers have their charm, they're not the only game in town. There are several alternatives that offer different features and benefits. Let's explore some of them.
 
-First up, we have bullet journals. These are a step up from printable trackers, offering more flexibility and personalization. You can design your own layout, add notes, and even doodle if you're feeling artistic. It's like a habit tracker, diary, and sketchbook all rolled into one.
+First up, we have [bullet journals]({{ 'habit-tracker-bullet-journal' | relative_url }}). These are a step up from printable trackers, offering more flexibility and personalization. You can design your own layout, add notes, and even doodle if you're feeling artistic. It's like a habit tracker, diary, and sketchbook all rolled into one.
 
-Next, we have online tools like Google Sheets or Notion. These platforms offer a digital approach to habit tracking. You can create custom tables, use formulas to calculate progress, and even share your tracker with others. Plus, you can access your tracker from any device, making it a convenient option for those always on the go.
+Next, we have online tools like [Google Sheets]({{ 'habit-tracker-excel-sheets' | relative_url }}) or [Notion]({{ 'notion-habit-tracker' | relative_url }}). These platforms offer a digital approach to habit tracking. You can create custom tables, use formulas to calculate progress, and even share your tracker with others. Plus, you can access your tracker from any device, making it a convenient option for those always on the go.
 
 But the real game-changer in the world of habit tracking is mobile apps. Take [Habituator](https://apple.co/3PqueKO), for example. Touted as one of the best habit tracking apps for iOS, it offers a host of features that make habit tracking a breeze.
 
@@ -58,7 +80,7 @@ But the real beauty of habit tracking apps like Habituator lies in their flexibi
 
 So, while printable habit trackers have their place, don't be afraid to explore other options. Whether you're a fan of pen and paper, prefer the convenience of digital tools, or love the features of mobile apps, there's a habit tracker out there for you. Remember, the best habit tracker is the one you'll actually use. So, go forth and track those habits. Your future self will thank you.
 
-# All Possible Habit Tracker Printable Templates
+## All Possible Habit Tracker Printable Templates
 
 Let's explore a variety of habit tracker printable templates, each with its unique charm and functionality. We've handpicked and reviewed a few templates for each type to help you find the perfect fit for your needs. 
 
@@ -78,7 +100,7 @@ See our printable templates below. Tap to download them!
 [![]({{ '/assets/media/templates/Monthly–circles-boxed.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/Monthly–circles-boxed.jpg' | absolute_url }})
 
 
-## Weekly Habit Tracker Printable Template
+### Weekly Habit Tracker Printable Template
 
 Next up is the **Weekly Habit Tracker Printable Template**. This template breaks down your habits into manageable weekly chunks. It's perfect for those who prefer a short-term focus or have habits that vary week by week. The downside? It might not capture the big picture of long-term habit development. But remember, every big journey starts with small steps. 
 
@@ -91,7 +113,7 @@ We designed a few weekly habit tracker templates for you to print and use. Here 
 [![]({{ '/assets/media/templates/weekly–2.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/weekly–2.jpg' | absolute_url }})
 
 
-## Daily Habit Tracker Printable Template
+### Daily Habit Tracker Printable Template
 
 The **Daily Habit Tracker Printable Template** is for the detail-oriented among us. It allows you to track habits on a day-to-day basis, making it ideal for intricate habits or routines. The downside is that it can be a bit overwhelming to manage and often becomes less interesting as your routines settle. 
 
@@ -102,7 +124,7 @@ And of course we're providing you with a few daily habit trackers templates too!
 [![]({{ '/assets/media/templates/daily–1.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/daily–1.jpg' | absolute_url }})
 [![]({{ '/assets/media/templates/daily.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/daily.jpg' | absolute_url }})
 
-## Yearly Habit Tracker Printable Template
+### Yearly Habit Tracker Printable Template
 
 The **Yearly Habit Tracker Printable Template** is the marathon runner of habit trackers. It provides a bird's eye view of your habits over an entire year. While it's great for long-term habits, it might not capture the nuances of daily or weekly habits.
 
@@ -116,7 +138,7 @@ Yearly habit tracker templates are for the long term, use them to become the per
 [![]({{ '/assets/media/templates/yearly–2.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/yearly–2.jpg' | absolute_url }})
 [![]({{ '/assets/media/templates/yearly–3.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/yearly–3.jpg' | absolute_url }})
 
-## 21, 30, 75, 90 or 100 Days Habit Tracker Printable Templates
+### 21, 30, 75, 90 or 100 Days Habit Tracker Printable Templates
 
 The **30 Day Habit Tracker Printable Template** is perfect for those 30-day challenges we all love. It's a great way to kickstart a new habit or break an old one. However, it might not be suitable for habits that require a longer or shorter tracking period. But who knows? You might just find that 30 days is all it takes to make or break a habit!
 
@@ -151,7 +173,7 @@ There are variations for 21, 75, 90, 100 or any number of days you find are enou
 [![]({{ '/assets/media/templates/100-days–8.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/100-days–8.jpg' | absolute_url }})
 
 
-## Circle Habit Tracker Printable Template
+### Circle Habit Tracker Printable Template
 
 The **Circle Habit Tracker Printable Template** brings a creative twist to habit tracking. It works by marking off each day in a circular pattern, providing a visually pleasing and novel way to track habits. The downside is that it might be less straightforward to read than linear templates. 
 
@@ -163,7 +185,7 @@ Circle habit tracker printable templates are fancy indeed, and rather tedious to
 [![]({{ '/assets/media/templates/circular.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/circular.jpg' | absolute_url }})
 
 
-## Habit Tracker Calendar
+### Habit Tracker Calendar
 
 The **Habit Tracker Calendar** combines habit tracking with your regular calendar. It's a great way to integrate habit tracking into your daily schedule. However, it might be less flexible for non-daily habits or if you need to track many habits, due to its limited space. Also, this format can take up quite some paper real estate, so it may not be suitable for a habit tracker that you always want to carry with you. It's more suitable for a desk.
 
@@ -172,7 +194,7 @@ Here's a generic habit tracker calendar template for you and a special 2024 cale
 [![]({{ '/assets/media/templates/calendar.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/calendar.jpg' | absolute_url }})
 [![]({{ '/assets/media/templates/calendar-2024.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/calendar-2024.jpg' | absolute_url }})
 
-## Habit Tracker Coloring Page
+### Habit Tracker Coloring Page
 
 The **Habit Tracker Coloring Page** turns habit tracking into a fun coloring activity. Each habit completion gets a splash of color, making progress visually rewarding. The downside is that it might not be as precise or detailed as other templates. But who said habit tracking can't be fun and colorful?
 
@@ -185,7 +207,7 @@ I love coloring page habit trackers, they just look gorgeous when hanging on a w
 [![]({{ '/assets/media/templates/coloring-page–3.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/coloring-page–3.jpg' | absolute_url }})
 [![]({{ '/assets/media/templates/coloring-page.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/coloring-page.jpg' | absolute_url }})
 
-## Habit Tracker Planner
+### Habit Tracker Planner
 
 Failing to plan is planning to fail!
 
@@ -199,13 +221,13 @@ You can use most of our habit tracker printable templates as either stickers to 
 
 [![]({{ '/assets/media/templates/planner.jpg' | absolute_url }}){: .template-img}]({{ '/assets/media/templates/planner.jpg' | absolute_url }})
 
-# Habit tracker Sticker Printable Templates
+## Habit tracker Sticker Printable Templates
 
 Most of the templates above can be printed on adhesive paper at the size you prefer and stuck in your own planner or agenda. This is a great solution if you already have a pen-and-paper tool for your daily tasks and are just looking for a way to easily add a habit tracker to it.
 
 It can also be suitable for bullet journals, even if you are not a purist about designing and drawing everything by hand. I know this may upset some hardcore bullet journal users, but I also believe that practicality should be the primary goal for any productivity tool, after all.
 
-# Conclusion
+## Conclusion
 
 Let's wrap up this journey through the world of habit tracker printables. We've explored the charm of pen and paper, the variety of templates available, and the undeniable limitations of this old-school method. So, let's recap.
 

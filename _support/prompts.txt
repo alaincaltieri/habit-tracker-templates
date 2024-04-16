@@ -2,34 +2,33 @@
 ---  POSTS
 ------------------------------------------------------------------------
 
-Create a longform post optimized for SEO on the following search queries:
-- what is a habit tracker
-- how to use a habit tracker
-- how to make a habit tracker
-- What habits to track
+Let's create an essay titled: "Best Free Habit Trackers For Google Sheets and Excel". 
+The essay is divided into sections, we'll go through all of them and write them together. For each section I'll provide you with the title, a summary of its content and how long it should be. Ready?
 
-The post should have the following structure and content:
+## Introduction
+This section explains briefly what a habit tracker is, why it is useful and how to use it.
 
-- What is a habit tracker: Explain what it is and how it can be useful. Expand with scientific evidence about how habits work and how habit trackers help building or quitting habits.
-- how to use a habit tracker: Explain the principles behind a habit tracker, how it should be used, with what mentality and goals. Show how a concrete user would set up her habits and use a tracker to stay motivated and organized.
-- how to make a habit tracker: Explain the core ingredients every habit tracker should have.
-	- Create a Habit Tracker in Notion: Explain why this may be a good idea and who it is suitable for. Refer to an extensive article of us for a deep dive and many templates.
-	- Create a Habit Tracker in Sheets or Excel: Explain why this may be a good idea and who it is suitable for. Refer to an extensive article of us for a deep dive and many templates.
-	- Have a Habit Tracker in your Bullet Journal: Explain why this may be a good idea and who it is suitable for. Refer to an extensive article of us for a deep dive and many templates.
-	- Habit Tracker PDF templates: Explain why this may be a good idea and who it is suitable for. Refer to an extensive article of us for a deep dive and many templates.
-	- Habit Tracker Apps: Explain why this may be a good idea and who it is suitable for. We made an Habit tracker app for iOS, iPadOS and watchOS that is just beautiful.
-- What habits to track: Now that we know why tracking habits is a good idea, list the 10 most common habits people should consider tracking.
+TODO: ADD TOC
 
-Expand each section appropriately, between 200 and 400 words of lenght. Add actionable and useful content when appropriate. Use a concise and clear language without jargon or complex sentences, copy Hemingway for the lexical style but do not use too many metaphors. Use humour and be human as appropriate.
+## Are Google Sheets and Excel Habit Trackers any good?
+This section explains why Google Sheets can be a good option for building a personalized habit tracker, listing pros and cons.
 
+## Alternatives to Google Sheets and Excel Habit Trackers
+Explain the main alternatives, including printable templates, bullet journals and mobile apps. 
+Focus on mobile apps as the superior tool, specially on Habituator for iOS, which we developed.
 
+## How to Make a Habit Tracker in Google Sheets or Excel
+Explain the core elements that should compose a habit tracker in Google Sheets or Excel. 
 
-KEYWORDS:
+## Google Sheets Habit Tracker templates to the Rescue!
+Present how templates can help anyone getting started with habit tracking in Google Sheet.
 
-- what is a habit tracker
-- how to use a habit tracker
-- how to make a habit tracker
-- What habits to track
+## Excel Habit Tracker templates that work
+Present how templates can help anyone getting started with habit tracking in Excel.
+
+## Conclusion
+Summarize the essay content and provide actionables.
+
 
 ---
 
@@ -74,6 +73,8 @@ L'immagine mostra un sentiero poco battuto sulla sinistra ed uno molto frequenta
 Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
 
 
+----
+
 Crea una immagine. 
 L'immagine mostra i seguenti stickers, sparsi su un tavolino:
 - Una mela rossa
@@ -84,3 +85,11 @@ L'immagine mostra i seguenti stickers, sparsi su un tavolino:
 - Uno smile arrabbiato
 Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di rosso vivo per metterli in evidenza. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
 
+
+
+---
+
+
+
+Crea un'immagine di una mano che segna delle caselle con dei checkmark rossi su un planner poggiato su un tavolo in mogano. Accanto al tavolo ci sono delle penne, un cellulare ed una tazza di caffé.
+Usa lo stile graphic novel, con solo toni bianco e nero. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.

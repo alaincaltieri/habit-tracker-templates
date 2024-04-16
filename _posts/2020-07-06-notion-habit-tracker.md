@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Create Your Own Habit Tracker in Notion"
+slug: notion-habit-tracker
 
 image:
   path: /assets/media/notion-habit-tracker.jpg
@@ -10,7 +11,7 @@ image:
 
 You've stumbled upon the right place if you're looking to give your habits a digital home. Let's talk about why you should consider a "Notion Habit Tracker". 
 
-First things first, **why should you track your habits?** Well, it's simple. Tracking habits is like having a personal coach who's always there, nudging you towards your goals. It's a gentle reminder that you're on a journey, and every step counts. Plus, it's incredibly satisfying to see your progress over time. 
+First things first, **[why should you track your habits?]({{ 'what-is-a-habit-tracker' | relative_url }})** Well, it's simple. Tracking habits is like having a personal coach who's always there, nudging you towards your goals. It's a gentle reminder that you're on a journey, and every step counts. Plus, it's incredibly satisfying to see your progress over time. 
 
 Now, let's talk about Notion. Imagine a digital workspace that's as flexible as playdough, as organized as a librarian, and as accessible as your local coffee shop. That's Notion for you! It's a platform where you can write, plan, collaborate, and get organized. It's your all-in-one workspace where you can take notes, manage tasks, set goals, and more.
 
