@@ -3,6 +3,10 @@ layout: post
 title: "Best Free Habit Trackers For Sheets Or Excel"
 slug: habit-tracker-excel-sheets
 
+image:
+  path: /assets/media/habits-spreadsheet-header.jpeg
+  thumbnail: /assets/media/habits-spreadsheet-header.jpeg
+
 ---
 
 A [habit tracker]({{ 'what-is-a-habit-tracker' | relative_url }}) is a simple yet powerful tool designed to help you cultivate positive habits and eliminate negative ones. At its core, it’s a systematic way to monitor your behavior over time. By keeping a visual record, you can identify patterns, maintain accountability, and see the progress you’re making day by day.
@@ -54,6 +58,8 @@ In the quest for self-improvement, habit trackers have emerged as a popular tool
 Nonetheless, Google Sheets and Excel habit trackers are good options for those who value customization and have a knack for spreadsheets. They offer a visual and analytical approach to habit tracking that can be highly motivating. However, they may not be the best fit for everyone, particularly those who prefer a more straightforward, less technical solution or that value convenience. Ultimately, the effectiveness of a habit tracker depends on the user's commitment to using it consistently and the suitability of the tool to their lifestyle and preferences. Whether you're a spreadsheet savant or a beginner, there's no denying the potential these digital tools have in aiding your journey towards building better habits.
 
 ## Alternatives to Google Sheets and Excel Habit Trackers
+
+![]({{ '/assets/media/habit-tracker-alternatives.jpeg' | absolute_url }})
 
 While Google Sheets and Excel are powerful digital tools for habit tracking, there are several alternatives that cater to different preferences and needs. These include printable templates, bullet journals, and mobile apps, each with its own set of advantages.
 
@@ -127,6 +133,8 @@ By following these steps, you can create a habit tracker in Google Sheets or Exc
 
 ## Google Sheets Habit Tracker Templates to the Rescue!
 
+![]({{ '/assets/media/habit-tracker-sheets-templates.jpeg' | absolute_url }})
+
 For those looking to streamline the process of habit tracking, Google Sheets templates are a godsend. These pre-designed templates simplify the setup, allowing you to jump straight into tracking your habits without the fuss of creating a tracker from scratch. Here's how templates can be particularly beneficial for beginners:
 
 **Ease of Use**: Templates come with a predefined structure, which means you don't have to worry about setting up the spreadsheet. This is especially helpful for those who may not be familiar with Google Sheets or Excel.
@@ -146,6 +154,8 @@ To help you get started, I've reviewed three free Google Sheets habit tracker te
 **[Zapier's Simple Habit Tracker](https://docs.google.com/spreadsheets/d/1zQTBMYsYyZ4KJ9LNTMv4TMq7n47huSCbbADhnrdylqE/copy)**: The simplest habit tracker template you may find: just checkboxes and a few formulas, nothing fancy but ideal to get you started.
 
 **[HelloMetrics.co's Habit tracker](https://docs.google.com/spreadsheets/d/159d51hobjCuVFeF5cg9twy4INtrJ40s-vwPBwHLMFyo/edit#gid=0)**: Another very simple and basic habit tracker to get you started, with support for daily, weekly and monthly habits too.
+
+There's many more templates, some ara reach of features and can be purchased online [like this one](https://www.etsy.com/listing/1137566780/2024-habit-tracker-spreadsheet-google). Considering the very affordable cost of a good habit tracking app we'd recommend this option only to real spreadsheet aficionados.
 
 By utilizing these templates, you can make habit tracking a seamless part of your routine. Whether you're a beginner or an experienced tracker, there's a template to suit your style and help you stay committed to your personal development journey.
 

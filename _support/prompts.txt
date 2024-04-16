@@ -91,5 +91,5 @@ Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di
 
 
 
-Crea un'immagine di una mano che segna delle caselle con dei checkmark rossi su un planner poggiato su un tavolo in mogano. Accanto al tavolo ci sono delle penne, un cellulare ed una tazza di caffé.
-Usa lo stile graphic novel, con solo toni bianco e nero. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+Crea un'immagine di una scrivania in legno con sopra il display di un monitor. Sul display è visibile uno spreadsheet con varie caselle in cui ci sono checkboxes verdi. Sulla scrivania c'è anche un diario aperto su una pagina in cui ci sono delle checkboxes per ogni riga, alcune con dei checkmark rossi dentro. Accanto al diario c'è uno smartphone, sul cui display compare un trofeo ed un ckeckmark color oro. Sul muro dietro c'è un calendario appeso, nelle caselle dei giorni sono segnate diverse croci blu. 
+Usa lo stile graphic novel. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
