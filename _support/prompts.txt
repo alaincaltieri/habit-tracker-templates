@@ -2,29 +2,33 @@
 ---  POSTS
 ------------------------------------------------------------------------
 
-Let's create an essay titled: "Best Free Habit Trackers For Google Sheets and Excel". 
+Let's create an essay titled: "How to Create Your Own Bullet Journal Habit Tracker". 
 The essay is divided into sections, we'll go through all of them and write them together. For each section I'll provide you with the title, a summary of its content and how long it should be. Ready?
 
 ## Introduction
-This section explains briefly what a habit tracker is, why it is useful and how to use it.
+This section explains briefly what a habit tracker is, why it is useful and how to use it. It focuses on the distinction between digital and hand written solutions. It then introduces the concept of Bullet Journals.
+This section should be about 400 words long.
 
 TODO: ADD TOC
 
-## Are Google Sheets and Excel Habit Trackers any good?
-This section explains why Google Sheets can be a good option for building a personalized habit tracker, listing pros and cons.
+## Is a Bullet Journal Habit Tracker The right solution for You?
+This section explains in detail what are Bullet Journals, how are they used and who may enjoy using them. 
+It then focuses on the Pros and cons of tracking habits with a bullet yournal.
+This section should be about 700 words long.
 
-## Alternatives to Google Sheets and Excel Habit Trackers
-Explain the main alternatives, including printable templates, bullet journals and mobile apps. 
+## Alternatives to Bullet Journal Habit Trackers
+Explain the main alternatives, including printable templates, Notion, Google Sheets and mobile apps. 
 Focus on mobile apps as the superior tool, specially on Habituator for iOS, which we developed.
+This section should be about 300 words long.
 
-## How to Make a Habit Tracker in Google Sheets or Excel
-Explain the core elements that should compose a habit tracker in Google Sheets or Excel. 
+## How to Create a Habit Tracker on a Bullet Journal
+Explain the core elements that should compose a habit tracker in any Bullet Journal. 
+This section should be about 600 words long.
 
-## Google Sheets Habit Tracker templates to the Rescue!
-Present how templates can help anyone getting started with habit tracking in Google Sheet.
-
-## Excel Habit Tracker templates that work
-Present how templates can help anyone getting started with habit tracking in Excel.
+## Bullet Journal Habit Tracker Template Examples
+Introduce how a template or example can help getting inspiration for creating our own design into our Bullet Journal.
+Then introduce 3 templates: alpha, beta and gamma.
+This section should be about 200 words long.
 
 ## Conclusion
 Summarize the essay content and provide actionables.
@@ -89,6 +93,8 @@ Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di
 
 ---
 
+Crea l'immagine di un bullet journal in cui è disegnata una tabella. Ogni riga ha una parola nella prima colonna e dei segni colorati in ognuna delle altre colonne. Il bullet journal poggia su una scrivania in legno, con pastelli colorati appoggiati vicino ed una singola pianta come decorazione, niente altro.
+Usa lo stile graphic novel. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
 
 
 Crea un'immagine di una scrivania in legno con sopra il display di un monitor. Sul display è visibile uno spreadsheet con varie caselle in cui ci sono checkboxes verdi. Sulla scrivania c'è anche un diario aperto su una pagina in cui ci sono delle checkboxes per ogni riga, alcune con dei checkmark rossi dentro. Accanto al diario c'è uno smartphone, sul cui display compare un trofeo ed un ckeckmark color oro. Sul muro dietro c'è un calendario appeso, nelle caselle dei giorni sono segnate diverse croci blu. 
