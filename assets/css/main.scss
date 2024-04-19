@@ -70,6 +70,11 @@ ul.menu a {
 	font-weight: 300;
 }
 
+ul.menu b {
+	color: var(--primary-color);
+	font-weight: 600;
+}
+
 h1 {
 	line-height: 2.5rem;
 }
@@ -92,41 +97,8 @@ p {
 	font-size: 0.9em;
 }
 
-ul {
-	font-size: 0.9em;
-}
-
 .download {
 	text-align: center;
-}
-
-ul.nav-links {
-	
-}
-
-ul.nav-links li {
-}
-
-ul.nav-links {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	padding: 0px;
-}
-
-ul.nav-links li {
-	display: inline;
-	padding-left: 20px;
-	padding-right: 20px;
-}
-
-@media (max-width:500px) {
-	ul.nav-links li {
-		//width: 100%;
-		display: block;
-		line-height: 2.0;
-	}
 }
 
 .clearfix:after {

@@ -2,14 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: all articles
+  - title: ALL THE RESOURCES
     post_list:
-      limit: 10
+      limit: 15
       show_more: true
       show_more_text: See more...
       show_more_url: archive.html
 
-  - title: rss
-    url: feed.xml
+#  - title: FOLLOW US WITH RSS
+#    url: feed.xml
 
 # TODO: ADD Global links here to be reused!

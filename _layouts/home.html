@@ -9,147 +9,16 @@ layout: default
   <script src="{{ '/assets/js/custom.js' | absolute_url }}"></script>
 </header>
 
-<picture>
-  <source srcset="{{ '/icon-dark.png' | absolute_url }}" media="(prefers-color-scheme: dark)">
-  <img src="{{ '/icon.png' | absolute_url }}" class="icon">
-</picture>
+<img src="{{ '/assets/media/habits-fight-poster.jpg' | absolute_url }}">
+
+<p>Welcome to the ultimate haven for habit trackers and personal development enthusiasts!</p>
+
+<p>I'm Alain, an indie developer and a fervent advocate for the transformative power of habit tracking. My journey has led me to create <a href="https://apple.co/3PqueKO"><strong>Habituator</strong>, an habit tracker app for iOS</a> designed to seamlessly integrate into your daily routine, empowering you to cultivate habits that stick.</p>
+
+<p>This website is filled with additional resources meticulously curated to support your habit tracking endeavors. <a href="{{ 'what-is-a-habit-tracker' | relative_url }}">What is a habit tracker</a>, you ask? We’ve got you covered too.</p>
+
+<p>Whether you're a fan of the tactile feel of <a href="{{ 'habit-tracker-bullet-journal' | relative_url }}">bullet journals</a>, the versatility of <a href="{{ 'habit-tracker-excel-sheets' | relative_url }}">spreadsheets</a>, or the organizational prowess of <a href="{{ 'notion-habit-tracker' | relative_url }}">Notion</a>, you'll find something here to enhance your habit tracking experience. Feel free to dive into our collection of <a href="{{ 'habit-tracker-printable-templates' | relative_url }}">printable habit tracker templates</a>, <a href="{{ 'habit-tracker-cards' | relative_url }}">cards and stickers</a>, <a href="{{ 'habit-tracker-calendar' | relative_url }}">calendars</a>, and then <a href="{{ 'habit-tracker-journals' | relative_url }}">habit tracker journals, planners and notebooks</a>, each crafted to inspire consistency and progress in your personal development journey.</p>
 
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}      
-
-<!-- // TODO: CLEANUP AFTER THIS!
-<ul class="nav-links">
-  <li><a href="{{ '/assets/presskit.zip' | absolute_url }}">Press Kit</a></li>
-  <li><a href="https://apple.co/3PqueKO">Download</a></li>  
-</ul>
-
-
-<h2>Intuitively beautiful</h2>
-<p>The perfect blend of functionality and aesthetics.</p>
-
-<picture class="features">
-  <source srcset="{{ '/assets/media/features-1-dark.png' | absolute_url }}" media="(prefers-color-scheme: dark)" class="features">
-  <img src="{{ '/assets/media/features-1.png' | absolute_url }}" class="features">
-</picture>
-
-<h2>Track from anywhere</h2>
-<p>Including interactive widgets, watchOS app and complications.</p>
-
-<picture class="features">
-  <source srcset="{{ '/assets/media/features-2-dark.png' | absolute_url }}" media="(prefers-color-scheme: dark)" class="features">
-  <img src="{{ '/assets/media/features-2.png' | absolute_url }}" class="features">
-</picture>
-
-<h2>See the progress</h2>
-<p>With rich stats, filters and colourful graphs.</p>
-
-<picture class="features">
-  <source srcset="{{ '/assets/media/features-3-dark.png' | absolute_url }}" media="(prefers-color-scheme: dark)" class="features">
-  <img src="{{ '/assets/media/features-3.png' | absolute_url }}" class="features">
-</picture>
-
-<h2></h2>
-<p class="download">
-  Try it: you get 3 habits for free with most features inlcuded.<br><br>
-  <a href="https://apps.apple.com/us/app/habituator-habit-tracker/id1440005368?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1544659200" alt="Download on the App Store" style="border-radius: 13px; width: 200px; height: auto;"></a>
-  
-</p>
-
-<h2>There's more:</h2>
-<ul>
-  <li>🚭 Build or quit habits.</li>
-  <li>👆 Interactive widgets.</li>
-  <li>⌚️ Watch app and complications.</li>
-  <li>📊 Stats with filters and charts.</li>
-  <li>💚 HealthKit automatic tracking.</li>
-  <li>🗣️ Siri and custom Shortcuts support.</li>
-  <li>📚 Learn the science of habits.</li>
-  <li>🔔 Powerful reminders.</li>
-  <li>🏖️ Vacation mode and skips.</li>
-  <li>📔 Habits journal.</li>
-  <li>🌈 Customisable user experience.</li>
-  <li>🌥️ Backup and sync with iCloud.</li>
-  <li>💾 Export/Import your data.</li>
-  <li>⛔️ No ads. No tracking.</li>
-</ul>
-
-
-<h2>See by yourself:</h2>
-<div class="screenshots-picker">
-  <a onclick="selectScreenshots(0);" id="screenshot-menu-0">iPhone</a>
-  <a onclick="selectScreenshots(1);" id="screenshot-menu-1">iPad</a>
-  <a onclick="selectScreenshots(2);" id="screenshot-menu-2">Watch</a>
-</div>
-
-<div class="gallery-wrapper" id="screenshots-0" class="active">
-  {% for screenshot in site.screenshots.iPhone %}  
-  <div class="responsive">
-    <div class="gallery">
-      <a target="_blank" href="{{ screenshot | absolute_url }}">
-        <img src="{{ screenshot | absolute_url }}" alt="App Store Screenshot" width="600" height="400">
-      </a>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
-<div class="gallery-wrapper" id="screenshots-1">
-  {% for screenshot in site.screenshots.iPad %}  
-  <div class="responsive-ipad">
-    <div class="gallery">
-      <a target="_blank" href="{{ screenshot | absolute_url }}">
-        <img src="{{ screenshot | absolute_url }}" alt="App Store Screenshot" width="600" height="400">
-      </a>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
-<div class="gallery-wrapper" id="screenshots-2">
-  {% for screenshot in site.screenshots.watch %}  
-  <div class="responsive-watch">
-    <div class="gallery">
-      <a target="_blank" href="{{ screenshot | absolute_url }}">
-        <img src="{{ screenshot | absolute_url }}" alt="App Store Screenshot" width="600" height="400">
-      </a>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
-<div class="clearfix"></div>
-
-
-<h2>Trust them:</h2>
-<div class="slides">
-  {% for review in site.reviews %}  
-  <div id="slide-1">
-    <h4> ★★★★★ {{ review.title }}</h4>
-    <p>
-      <i>{{ review.author }} - {{ review.country }}</i> <br>
-      {{ review.text }}
-    </p>
-  </div>
-  {% endfor %}
-</div>
-
-
-<h2>Fair price policy</h2>
-<p>Get the app forever for $19.99 or pay as you go: $9.99/year, $0.99/month. <br>
-All features and all updates are included.</p>
-
-<h2></h2>
-<p class="download">
-  One last time: <br> download the app, you won't regret it. <br><br>
-  <a href="https://apps.apple.com/us/app/habituator-habit-tracker/id1440005368?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1544659200" alt="Download on the App Store" style="border-radius: 13px; width: 200px; height: auto;"></a>
-</p>
-
-
-<ul class="nav-links">
-  <li><a href="{{ '/assets/presskit.zip' | absolute_url }}">Press Kit</a></li>
-  <li><a href="https://apple.co/3PqueKO">Download</a></li>
-</ul>
-
-
--->

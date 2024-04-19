@@ -93,17 +93,8 @@ Usa lo stile graphic novel, con solo toni bianco e nero ma colora i checkmark di
 
 ---
 
-Crea l'immagine di un mucchio di stickerssparsi su un tavolo in legno. Su ogni sticker è raffigurata una delle seguenti immagini:
-- Una sigaretta
-- Una mela rossa ed una banana gialla
-- Una chat bubble con dentro un cuore
-- Una lampadina accesa
-- Un set di barbells
-- Un fiore di loto
-- Un mazzo di banane
-- Delle rose
-Sugli stickers non c'è altro, solo uno di questi simboli per carta.
-Usa lo stile graphic novel. L'immagine dev'essere di alta qualità e verrà usata come header per un blog. Aspect ratio 16:9, wide.
+Crea l'immagine di una serie di stickers di emoji che vanno da mood negativi a molto positivi. Gli stickers sono attaccati al frame di una bicicletta.
+Usa lo stile graphic novel. Aspect ratio 16:9, wide.
 
 
 Crea l'immagine di un bullet journal in cui è disegnata una tabella. Ogni riga ha una parola nella prima colonna e dei segni colorati in ognuna delle altre colonne. Il bullet journal poggia su una scrivania in legno, con pastelli colorati appoggiati vicino ed una singola pianta come decorazione, niente altro.
