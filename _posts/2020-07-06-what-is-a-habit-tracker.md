@@ -22,7 +22,7 @@ By visually tracking your progress, you can identify patterns, celebrate your su
 - [What Habits to Track?](#what-habits-to-track)
 - [In Conclusion](#in-conclusion)
 
-## [How Do Habits Work?](#how-do-habits-work)
+## How Do Habits Work?
 
 Habits are like the machinery of our daily lives, operating beneath the surface with remarkable efficiency. At their core, habits are ingrained behavioral patterns that we perform almost automatically, often without conscious thought. Understanding how habits work requires peeling back the layers of this intricate process. We can do so by analyzing the so called **habit loop** which consists of these phases:
 
@@ -34,7 +34,7 @@ Habits are like the machinery of our daily lives, operating beneath the surface 
 
 4. **Repetition and Reinforcement**: As the habit loop repeats over time, the neural pathways associated with the habit become increasingly ingrained and efficient. With each repetition, the habit becomes more automatic, requiring less cognitive effort to execute. This cycle of cue, routine, and reward forms the foundation of habit formation, shaping our behaviors and influencing our daily lives.
 
-## [How to Use a Habit Tracker to Improve Your Habits](#how-to-use-a-habit-tracker-improve-your-habits)
+## How to Use a Habit Tracker to Improve Your Habits
 
 Using a habit tracker effectively is all about consistency and honesty. Here's a simple step-by-step guide:
 
@@ -62,7 +62,7 @@ Celebrating Progress and Milestones: A habit tracker serves as a visual record o
 
 In summary, a habit tracker is a practical tool that provides clarity, accountability, insights, and motivation in your pursuit of behavior change. By leveraging its benefits, you can cultivate positive habits, break free from detrimental ones, and ultimately lead a more intentional and fulfilling life.
 
-## [How to Make a Habit Tracker](#how-to-make-a-habit-tracker)
+## How to Make a Habit Tracker
 
 ![]({{ '/assets/media/how-to-create-habit-tracker-calendar.jpeg' | absolute_url }})
 
@@ -98,7 +98,7 @@ For those who crave simplicity, printable PDF templates offer a minimalist appro
 
 Alongside full apps, Notion, Sheets, Excel and Bullet Journal templates we created also a nice collection of [templates for printable habit tracker in PDF](TODO). Or, if you're more into calendars, here's a specific variation with [the 2024 (and 2025!) habit tracker calendars](TODO).
 
-## [What Habits to Track?](#what-habits-to-track)
+## What Habits to Track?
 
 ![]({{ '/assets/media/what-habits-track.jpeg' | absolute_url }})
 
@@ -116,6 +116,6 @@ Now that you have the tools and motivation to work on your habits, you may wonde
 
 Ultimately, the habits you choose to track should align with your values, priorities, and goals. Don't be afraid to experiment and adjust your tracking as you go to find what works best for you. And remember, progress is progress, no matter how small. So keep tracking, keep striving, and watch your habits transform your life for the better.
 
-## [In Conclusion](#in-conclusion)
+## In Conclusion
 
 In the pursuit of personal growth and self-improvement, habit tracking stands as a beacon of guidance and accountability. By harnessing the power of habit tracking, you can unlock your potential, one small behavior at a time. Whether you choose a digital app, a bullet journal, or a simple spreadsheet, the key is consistency and commitment. So, embark on this journey with an open heart and a steadfast resolve, knowing that each habit tracked brings you one step closer to the life you desire.
