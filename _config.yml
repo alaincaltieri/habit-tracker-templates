@@ -5,10 +5,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # Enable for final deployment
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://templates.habituator.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://habittrackers.habituator.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 # baseurl: "/habit-tracker-templates"
-url: https://alaincaltieri.github.io
+# url: https://alaincaltieri.github.io
 
 twitter_username: alaincaltieri
 github_username:  alaincaltieri
@@ -16,11 +16,11 @@ github_username:  alaincaltieri
 theme_config:
   appearance: "light"
   show_description: true
-  back_home_text: "back"
+  back_home_text: "Home"
 
 # Build settings
-theme: no-style-please  # Use this locally
-# remote_theme: riggraz/no-style-please  # Use this to deploy
+# theme: no-style-please  # Use this locally
+remote_theme: riggraz/no-style-please  # Use this to deploy
 
 permalink: /:title/
 
