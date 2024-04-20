@@ -72,19 +72,19 @@ Creating a habit tracker is easier than you might think. Here are a few methods 
 
 Notion is a versatile productivity tool that allows you to create custom databases, including habit trackers. With its intuitive interface and robust features, Notion provides a digital playground for organizing your habits and goals. From customizable templates to seamless integration with other productivity tools, Notion empowers you to design a habit tracker tailored to your unique needs. 
 
-We created a full article about [creating your habit tracker on Notion, including templates](TODO). Check it out!
+We created a full article about [creating your habit tracker on Notion, including templates]({{ 'notion-habit-tracker' | relative_url }}). Check it out!
 
 **2. [Habit tracker with Sheets or Excel]({{ 'habit-tracker-excel-sheets' | relative_url }})**
 
 For the analytically inclined, spreadsheets like Google Sheets or Microsoft Excel offer a data-driven approach to habit tracking. With their array of functions and charting capabilities, spreadsheets allow you to track your habits with precision and detail. Whether you're logging your daily activities or analyzing trends over time, spreadsheets provide a powerful platform for tracking and visualizing your progress. Their customizability is unmatched. 
 
-We wrote an article on the tips and tricks for creating your [habit tracker with google sheets or Excel, with templates ready to use](TODO). 
+We wrote an article on the tips and tricks for creating your [habit tracker with google sheets or Excel, with templates ready to use]({{ 'habit-tracker-excel-sheets' | relative_url }}). 
 
 **3. [Bullet Journal Habit Trackers]({{ 'habit-tracker-bullet-journal' | relative_url }})**
 
 If you prefer a tactile experience, a bullet journal might be your weapon of choice. With its customizable layouts and creative freedom, a bullet journal invites you to craft a habit tracker that's as unique as you are. From minimalist designs to elaborate spreads, a bullet journal allows you to blend productivity with creativity, making habit tracking a joyous journey of self-expression.
 
-Guess what? We did a deep dive on [Bullet Journal habit trackers and templates to inspire you](TODO) too! Aren't you happy?
+Guess what? We did a deep dive on [Bullet Journal habit trackers and templates to inspire you]({{ 'habit-tracker-bullet-journal' | relative_url }}) too! Aren't you happy?
 
 **4. Habit Tracker Apps: On-the-Go Convenience**
 
@@ -96,7 +96,7 @@ Now you may think: no way these guys made also an habit tracker app for me to us
 
 For those who crave simplicity, printable PDF templates offer a minimalist approach to habit tracking. With elegant designs and intuitive layouts, these templates transform the mundane task of habit tracking into a delightful ritual. Whether you prefer a weekly overview or a monthly calendar, PDF templates provide a fuss-free solution for staying on track.
 
-Alongside full apps, Notion, Sheets, Excel and Bullet Journal templates we created also a nice collection of [templates for printable habit tracker in PDF](TODO). Or, if you're more into calendars, here's a specific variation with [the 2024 (and 2025!) habit tracker calendars](TODO).
+Alongside full apps, Notion, Sheets, Excel and Bullet Journal templates we created also a nice collection of [templates for printable habit tracker in PDF]({{ 'habit-tracker-printable-templates' | relative_url }}). Or, if you're more into calendars, here's a specific variation with [the 2024 (and 2025!) habit tracker calendars]({{ 'habit-tracker-calendar' | relative_url }}).
 
 ## What Habits to Track?
 
